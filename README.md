@@ -4,9 +4,6 @@
 
 This project is the first version of the AirBnB project, which is an AirBnB clone that includes design, layout, infrastructure and database. In this repository you will find the AirBnB console, which executes specific commands (shown below) to make specific actions.
 
-## Code Style
-[Pycodestyle](https://pypi.org/project/pycodestyle/) was taken into account and implemented for all files.
-
 ## Files and Directories
 - ```models``` directory will contain all classes used for the entire project. A class, called “model” in a OOP project is the representation of an object/instance.
 - ```tests``` directory will contain all unit tests.
